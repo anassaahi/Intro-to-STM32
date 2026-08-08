@@ -1,0 +1,12 @@
+!SESSION 2026-07-01 17:02:09.705 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-07-01 17:02:43.043
+!MESSAGE Log4j2 initialized with config file /home/nachovarga/Internship/blink the led/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-07-01 17:02:55.720
+!MESSAGE Started RMI Server, listening on port 41337
