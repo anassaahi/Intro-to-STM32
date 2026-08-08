@@ -223,6 +223,3 @@ This project follows the license terms provided by STMicroelectronics for the ST
 
 ---
 
-**Last Updated**: August 8, 2026
-
-For questions or improvements, feel free to contribute or open an issue!
